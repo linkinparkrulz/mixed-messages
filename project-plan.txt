@@ -11,3 +11,10 @@ The way i visualize the project:
 
 CODING JOURNAL:
 
+So, I have to come up with a topic. I think I am going to do a message generator based on sats. It will output 3 things:
+
+	- Sats per CAD
+	- How many Sats I should buy that day
+	- Total amount in cuck bucks I need to purchase sats
+
+
