@@ -1,0 +1,13 @@
+The project is to build a message generator. When a user runs the program, they receive a randomized output.
+
+Do i want to doi something specific? Bitcoin related message generator?
+
+The way i visualize the project:
+
+	- There is 3 pieces of data
+	- To randomize 3 pieces of data I think I would use arrays
+	- Where am I getting the random data from?
+	- Maybe I'll get more detail in the next step
+
+CODING JOURNAL:
+
