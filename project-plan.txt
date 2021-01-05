@@ -17,4 +17,8 @@ So, I have to come up with a topic. I think I am going to do a message generator
 	- How many Sats I should buy that day
 	- Total amount in cuck bucks I need to purchase sats
 
+I've completed the program. I found an api that I was able to process the request from. My troubles ended up being with how I orgranized
+the code. Using functions, I was able to organize the code effectively.
 
+Along the way, I learned a little more about the round function (it doesn't have a lot of function). Also, for the title "SATS CALC" I learned about
+the raw method of String.
